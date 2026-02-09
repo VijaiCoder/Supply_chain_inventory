@@ -70,12 +70,3 @@ This project focuses on analyzing supply chain inventory data using Power BI to 
 - Implement Row Level Security (RLS)  
 - Connect to live databases  
 
----
-
-## 👤 Author
-Tony  
-
----
-
-## 📜 License
-This project is created for learning and academic purposes.
